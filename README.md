@@ -14,3 +14,5 @@ After the installation is complete, activate the virtual environment by running:
 ```bash
 pipenv shell
 ```
+
+You can [watch the video here](https://github.com/rormenol/BreeMobileAppTesting/BreeMobileApp_Automation_compressed.mp4).
