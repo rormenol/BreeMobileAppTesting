@@ -1,5 +1,5 @@
-# BreeMobileAppTesting
-Automating some scenarios for BreemobileApp
+# Interview for MobileAppTesting
+This is a framework I created for an interview to automate some scenarios. I am using Pytest-BDD, Appium, and POM Pattern.
 
 ## Steps to Install and Set Up the Project on Your Laptop
 
